@@ -1,2 +1,3 @@
 hello this is first line 
 and i m editing in github remote repo moving to local repo
+the third line added by another user
